@@ -3,9 +3,13 @@ A simple web-based User Management System built to demonstrate basic CRUD (Creat
 
 ## 🔍 Features
 Add new users with name and balance
+
 Edit existing user information
+
 Delete users from the list
+
 Display all users in a tabular format
+
 Responsive and user-friendly interface
 
 ## 🛠️ Technologies Used
